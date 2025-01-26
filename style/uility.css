@@ -66,3 +66,43 @@ border: 2px solid red;
     flex-wrap: wrap;
     overflow: hidden;
 }
+@font-face {
+    font-family:futurak ;
+src: url(../futurablack-bt.ttf);
+}
+@font-face {
+    font-family:aprecu ;
+    src: url(../font//ApercuMonoProLight.ttf);
+}
+@font-face {
+    font-family: font4;
+    src: url(../font/Roboto/static/Roboto_Condensed-ExtraLight.ttf);
+}
+@font-face {
+    font-family: font5;
+    src: url(../font/butler/Butler_Ultra_Light.otf);
+}
+.font{
+    font-family: futurak;
+    font-size: 50px;
+    font-weight: 400;
+}
+.font3{
+    font-family:aprecu;
+    font-size: 40px;
+    font-weight: 300;
+    font-style:normal;
+}
+.font4{
+    font-family: font4;
+    font-size: 40px;
+    font-weight: 550;
+}
+.font5{
+    font-family: font5;
+    font-size: 48px;
+}
+.font2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
