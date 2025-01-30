@@ -117,5 +117,11 @@ src: url(../futurablack-bt.ttf);
     border: 1px solid #d8d6d6;
 }
 .font6{
+    font-size: 40px;
+}
+.font7{
     font-size: 32px;
+}
+.start{
+    text-align: start;
 }

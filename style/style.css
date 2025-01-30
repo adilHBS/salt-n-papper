@@ -80,7 +80,7 @@ border: 1px solid#ffff;
 }
  
  #h3{
-  font-size: 50px;
+  font-size: 20px;
  }
  .arrow{
   background-color: #d8d6d6;
@@ -157,6 +157,33 @@ border: 1px solid rgb(2, 145, 4);
   background-color: #b6b8b8;
   border: 1px solid #b6b8b8;
   background-color: #b6b8b8;
+ }
+ #facebook{
+  color: #d8d6d6;
+  width: 50px;
+  height: 50px;
+  padding: 20px 40px;
+  margin: 0px 30px;
+  background-color: #ff1433;
+  font-size: 45px;
+
+
+ }
+ #background{
+  background-image: image();
+ }
+ .footer{
+  height: 440px;
+  
+  position:
+ }
+ .footer1{
+  background-image: url(../img/background.webp);
+ }
+ li{
+  display:inline-block;
+  font-size: 20px;
+  font-weight: 400;
  }
  
     
