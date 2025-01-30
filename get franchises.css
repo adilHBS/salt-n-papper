@@ -7,14 +7,8 @@ body{
     background-color: #000000;
     color: #fff;
 }
-.getfranchise{
-border: red 2px solid;
-height: 660px;
-width:;
-padding: 70px 12px ;
-margin:43px px ;
-}
-form{
+
+/* form{
     width: 1142px;
     height:500pxpx ;
     margin-top: 40px 110px;
@@ -103,6 +97,116 @@ select {
 }
 select:focus {
     border: 3px solid rgb(248, 66, 66);
+}
+option{
+    font: 1rem 'Segoe UI';    
+}
+.sub{
+    width: 170px;
+    height: 50px;
+    border-radius: 40px;
+    font: 0.9rem Verdana;
+    color: #fff;
+    padding: 15px 56px;
+    transition: all 1s;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    border: 1px solid #eeb710;
+    background-color: #eeb710;
+}
+.sub:hover{
+    border: 1px solid #fff;
+    background-color: #000000;
+    color: #fff;
+} */
+form{
+    width: 1142px;
+    height: 500px;
+    margin: 40px 110px;
+}
+.one{
+    width: 1142px;
+    height: 80px;
+    display: flex;
+    margin-top: 12px;
+    justify-content: space-between;
+}
+label{
+    font: 1rem 'Segoe UI';
+    color: #d1cfcf;
+}
+input[type=text] {
+    width: 550px;
+    height: 45px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+    background-size:19px;
+    background-color: white;
+    background-image: url('download.png');
+    background-position: 513px 12px; 
+    background-repeat: no-repeat;
+    padding: 0px 45px 0px 17px;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 3px solid rgb(248, 66, 66);
+}
+input[type=email] {
+    width: 550px;
+    height: 45px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+    background-size:19px;
+    background-color: white;
+    background-image: url('download.png');
+    background-position: 513px 12px; 
+    background-repeat: no-repeat;
+    padding: 0px 45px 0px 17px;
+    outline: none;
+}
+input[type=email]:focus {
+    border: 3px solid rgb(248, 66, 66);
+}
+input[type=number] {
+    width: 550px;
+    height: 45px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+    background-size:19px;
+    background-color: white;
+    background-image: url('download.png');
+    background-position: 513px 12px; 
+    background-repeat: no-repeat;
+    padding: 0px 45px 0px 17px;
+    outline: none;
+}
+input[type=number]:focus {
+    border: 3px solid rgb(248, 66, 66);
+}
+select {
+    width: 550px;
+    height: 45px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+    color:#5f5e5e;
+    font: 1rem 'Segoe UI'; 
+    background-color: white;
+    padding-left: 17px;
+    outline: none;
+}
+select:focus {
+    border: 3px solid rgb(237, 223, 223);
 }
 option{
     font: 1rem 'Segoe UI';    
