@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.getfranchise{
+border: red 2px solid;
+height: 660px;
+width:;
+padding: 70px 12px ;
+margin:43px px ;
+}
+#from{
+    width: 50%;
+    height:25.99px ;
+    margin-top: 15px;
+    border: red solid 1px;
+}
+#from2{
+    width: 50%;
+    height:500px ;
+}
+#from3{
+    width:100%;
+}
+.name{
+    width: 456px;
+}
