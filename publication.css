@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.publication{
+    margin-top: 90px;
+}
+.publication1{
+height: 596px;
+width: 595px;
+border: 1px solid white;
+margin: 0px 0px 35px ;
+padding: 32px 0px 40px;
+}
+.img-p:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    
+}
